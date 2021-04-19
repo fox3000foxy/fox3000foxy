@@ -14,3 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My JS description...:
+```js
+function whoAmI(name, job, codingLaunguage) {
+    console.log(`
+    Hello, my name is ${name}
+    I'm a ${job} for the moment
+    I'm actually work on ${codingLaunguage}
+    `)
+}
+
+whoAmI("fox3000foxy", "independent developer", "Javascript")
+```
+...executed :
+```txt
+    Hello, my name is fox3000foxy
+    I'm a independent developer for the moment
+    I'm actually work on Javascript
+```
