@@ -20,7 +20,10 @@
 
 <div align="center">
 
-<a href="#-about-me"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" width="16" /> About Me</a> &nbsp;·&nbsp; <a href="#socials"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="16" /> Socials</a> &nbsp;·&nbsp; <a href="#%EF%B8%8F-tech-stack"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="16" /> Tech Stack</a> &nbsp;·&nbsp; <a href="#-github-stats"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="16" /> Stats</a> &nbsp;·&nbsp; <a href="#-repo-analytics"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="16" /> Analytics</a> &nbsp;·&nbsp; <a href="#-my-repositories"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="16" /> Library</a> &nbsp;·&nbsp; <a href="https://gist.github.com/fox3000foxy"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="16" /> Gists</a>
+<a href="#-about-me"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Fox.png" width="16" /> About Me</a> &nbsp;·&nbsp; &nbsp;·&nbsp; <a href="#%EF%B8%8F-tech-stack"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" width="16" /> Tech Stack</a> &nbsp;·&nbsp; <a href="#-github-stats"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="16" /> Stats</a> &nbsp;·&nbsp; <a href="#-repo-analytics"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="16" /> Analytics</a> &nbsp;·&nbsp; <a href="#-my-repositories"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="16" /> Library</a> &nbsp;·&nbsp; <a href="https://gist.github.com/fox3000foxy"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Memo.png" width="16" /> Gists</a>
+
+<a href="https://fox3000foxy.com"><img src="https://cdn.simpleicons.org/googlechrome/7c3aed" width="40" alt="Website" /></a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/fox3000foxy"><img src="https://cdn.simpleicons.org/github/ffffff" width="40" alt="GitHub" /></a> &nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/channel/UCUM9i9jQSJiQh6NWY8Kbujg"><img src="https://cdn.simpleicons.org/youtube/ff0000" width="40" alt="YouTube" /></a> &nbsp;&nbsp;&nbsp; <a href="https://discord.com/users/724847846897221642"><img src="https://cdn.simpleicons.org/discord/5865F2" width="40" alt="Discord" /></a> &nbsp;&nbsp;&nbsp; <a href="https://gist.github.com/fox3000foxy"><img src="https://cdn.simpleicons.org/git/ffffff" width="40" alt="Gists" /></a> &nbsp;&nbsp;&nbsp; <a href="https://instagram.com/fox3000foxy"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram" /></a> &nbsp;&nbsp;&nbsp; <a href="https://twitch.tv/fox3000foxy"><img src="https://cdn.simpleicons.org/twitch/9146ff" width="40" alt="Twitch" /></a>
+
 
 </div>
 
@@ -88,23 +91,7 @@ Independent Developer passionate about building things with code.<br>
 <!-- SOCIALS -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
-<a id="socials"></a>
-
-<h2>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" width="16" /> &nbsp;Socials
-</h2>
-
-<div align="center">
-<!-- 
-[![Website](https://img.shields.io/badge/Website-fox3000foxy.com-7c3aed?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fox3000foxy.com) [![GitHub](https://img.shields.io/badge/GitHub-@fox3000foxy-181717?style=for-the-badge&logo=github)](https://github.com/fox3000foxy) [![YouTube](https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCUM9i9jQSJiQh6NWY8Kbujg)
-[![Discord](https://img.shields.io/badge/Discord-Profile-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/724847846897221642) [![Gists](https://img.shields.io/badge/Gists-fox3000foxy-111111?style=for-the-badge&logo=github&logoColor=white)](https://gist.github.com/fox3000foxy) -->
-
-<br/>
-
-<a href="https://fox3000foxy.com"><img src="https://cdn.simpleicons.org/googlechrome/7c3aed" width="40" alt="Website" /></a> &nbsp;&nbsp;&nbsp; <a href="https://github.com/fox3000foxy"><img src="https://cdn.simpleicons.org/github/ffffff" width="40" alt="GitHub" /></a> &nbsp;&nbsp;&nbsp; <a href="https://www.youtube.com/channel/UCUM9i9jQSJiQh6NWY8Kbujg"><img src="https://cdn.simpleicons.org/youtube/ff0000" width="40" alt="YouTube" /></a> &nbsp;&nbsp;&nbsp; <a href="https://discord.com/users/724847846897221642"><img src="https://cdn.simpleicons.org/discord/5865F2" width="40" alt="Discord" /></a> &nbsp;&nbsp;&nbsp; <a href="https://gist.github.com/fox3000foxy"><img src="https://cdn.simpleicons.org/git/ffffff" width="40" alt="Gists" /></a> &nbsp;&nbsp;&nbsp; <a href="https://instagram.com/fox3000foxy"><img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" alt="Instagram" /></a> &nbsp;&nbsp;&nbsp; <a href="https://twitch.tv/fox3000foxy"><img src="https://cdn.simpleicons.org/twitch/9146ff" width="40" alt="Twitch" /></a>
-
-
-</div>
+<!-- <a id="socials"></a> -->
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
 <!-- TECH STACK -->
