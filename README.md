@@ -150,6 +150,9 @@ Independent Developer passionate about building things with code.<br>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fox3000foxy&theme=tokyonight" alt="Repos per Language" />
 </td>
 </tr>
+</table>
+
+<table>
 <tr>
 <td align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fox3000foxy&theme=tokyonight&utcOffset=1" alt="Productive Time" />
