@@ -1,16 +1,44 @@
 <div align="center">
 
-# Hey there! 👋 I'm **fox3000foxy**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=fox3000foxy&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Independent%20Developer%20%7C%20Open%20Source%20Lover&descSize=18&descAlignY=52" />
+
+<br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=fox3000foxy&label=Profile%20Views&color=blueviolet&style=for-the-badge)](https://github.com/fox3000foxy) [![GitHub followers](https://img.shields.io/github/followers/fox3000foxy?label=Followers&style=for-the-badge&logo=github&color=181717)](https://github.com/fox3000foxy?tab=followers) [![GitHub stars](https://img.shields.io/github/stars/fox3000foxy?label=Total%20Stars&style=for-the-badge&logo=github&color=f5c842)](https://github.com/fox3000foxy)
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&lines=Independent+Developer;JavaScript+Enthusiast;Open+Source+Lover;Always+Learning+New+Things" alt="Typing SVG" />
 
 </div>
 
----
+<br/>
 
-## 🦊 About Me
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- NAVIGATION -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<a href="#-about-me">About Me</a> · <a href="#%EF%B8%8F-tech-stack">Tech Stack</a> · <a href="#-github-stats">Stats</a> · <a href="#-repo-analytics">Analytics</a> · <a href="#-my-repositories">Repos</a>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ABOUT ME -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
+</h2>
+
+<table>
+<tr>
+<td width="55%">
 
 ```js
 class Person {
@@ -27,42 +55,125 @@ class Person {
   }
 }
 
-const me = new Person('fox3000foxy', 'Independent Developer', ['JavaScript', 'TypeScript', 'Node.js', 'HTML/CSS']);
+const me = new Person(
+  'fox3000foxy',
+  'Independent Developer',
+  ['JavaScript', 'TypeScript', 'Node.js', 'HTML/CSS']
+);
 me.details();
 ```
 
----
-
-## 🛠️ Tech Stack
+</td>
+<td width="45%">
 
 <div align="center">
 
-### Languages
+🦊 **fox3000foxy**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+Independent Developer passionate about building things with code.
 
-### Frameworks & Libraries
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white) ![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+💻 JavaScript & TypeScript enthusiast
+🌍 Open Source contributor
+📚 Always learning new things
+🎮 Game dev hobbyist
 
 </div>
 
----
+</td>
+</tr>
+</table>
 
-## 📊 GitHub Stats
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- TECH STACK -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2>
+  🛠️ &nbsp;Tech Stack
+</h2>
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fox3000foxy&theme=tokyonight" alt="Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fox3000foxy&theme=tokyonight" alt="Top Languages" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fox3000foxy&theme=tokyonight" alt="Repos per Language" />
+<table>
+<tr>
+<td align="center" width="33%">
 
+<h3>⚡ Languages</h3>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+<h3>📦 Frameworks</h3>
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Discord.js](https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+
+</td>
+<td align="center" width="33%">
+
+<h3>🔨 Tools</h3>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- GITHUB STATS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2>
+  📊 &nbsp;GitHub Stats
+</h2>
+
+<div align="center">
+
+<table>
+<tr>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=fox3000foxy&theme=tokyonight" alt="Stats" />
+</td>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fox3000foxy&theme=tokyonight" alt="Top Languages" />
+</td>
+<td align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fox3000foxy&theme=tokyonight" alt="Repos per Language" />
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fox3000foxy&theme=tokyonight&utcOffset=1" alt="Productive Time" />
+</td>
+<td align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fox3000foxy&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</td>
+</tr>
+</table>
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fox3000foxy&theme=tokyonight" alt="Profile Details" />
 
@@ -78,9 +189,17 @@ me.details();
 
 </div> -->
 
----
+<br/>
 
-## 📦 Repo Analytics
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- REPO ANALYTICS -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2>
+  📦 &nbsp;Repo Analytics
+</h2>
 
 <div align="center">
 
@@ -88,44 +207,72 @@ me.details();
 
 </div>
 
----
+<br/>
 
-## 🐍 Contribution PacMan
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- CONTRIBUTION PACMAN -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<h2>
+  🐍 &nbsp;Contribution PacMan
+</h2>
 
 <div align="center">
 
 <picture>
-
 <img src="https://profile-readme-generator.com/assets/pacman.svg" alt="pacman" width="100%" />
 </picture>
 
 </div>
 
----
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- DEV QUOTE & FOOTER -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-### 💬 Random Dev Quote
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
+<h3>💬 Random Dev Quote</h3>
 
 <br/>
 
-<img src="https://counter.seku.su/cmoe?name=fox3000foxy&theme=r34" alt="Visitors" />
-
-![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge) ![Open Source](https://img.shields.io/badge/Open%20Source-💚-green?style=for-the-badge)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
 
+<br/>
+
+<img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- REPOSITORIES -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-# 📂 My Repositories
+<h1>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;My Repositories
+</h1>
 
-HOW THE FUCK DID I KNEW ALL MY REPOS BACK IN 2021?!
+<br/>
 
-## ⭐ Most Starred
+> **HOW THE FUCK DID I KNEW ALL MY REPOS BACK IN 2021?!**
+
+<br/>
+
+</div>
+
+<!-- ⭐ MOST STARRED ⭐ -->
+
+<details open>
+<summary><b>⭐ Most Starred</b></summary>
+
+<div align="center">
 
 [![ImmersiveManhunt](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=ImmersiveManhunt&theme=tokyonight)](https://github.com/fox3000foxy/ImmersiveManhunt)
 [![weights.gg-api](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=weights.gg-api&theme=tokyonight)](https://github.com/fox3000foxy/weights.gg-api)
@@ -134,9 +281,15 @@ HOW THE FUCK DID I KNEW ALL MY REPOS BACK IN 2021?!
 [![virtualcam-extension](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=virtualcam-extension&theme=tokyonight)](https://github.com/fox3000foxy/virtualcam-extension)
 [![hologram-smart-miku](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=hologram-smart-miku&theme=tokyonight)](https://github.com/fox3000foxy/hologram-smart-miku)
 
----
+</div>
+</details>
 
-## 🎮 Games & Minecraft
+<!-- 🎮 GAMES & MINECRAFT -->
+
+<details>
+<summary><b>🎮 Games & Minecraft — <sub>22 repos</sub></b></summary>
+
+<div align="center">
 
 [![online_mario](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=online_mario&theme=tokyonight)](https://github.com/fox3000foxy/online_mario)
 [![mario](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=mario&theme=tokyonight)](https://github.com/fox3000foxy/mario)
@@ -161,9 +314,15 @@ HOW THE FUCK DID I KNEW ALL MY REPOS BACK IN 2021?!
 [![Minetest_S-Nanny](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=Minetest_S-Nanny&theme=tokyonight)](https://github.com/fox3000foxy/Minetest_S-Nanny)
 [![Minetest_S-Nanny_mod](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=Minetest_S-Nanny_mod&theme=tokyonight)](https://github.com/fox3000foxy/Minetest_S-Nanny_mod)
 
----
+</div>
+</details>
 
-## 🤖 Discord Bots & Tools
+<!-- 🤖 DISCORD BOTS & TOOLS -->
+
+<details>
+<summary><b>🤖 Discord Bots & Tools — <sub>15 repos</sub></b></summary>
+
+<div align="center">
 
 [![Discord-Aura](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=Discord-Aura&theme=tokyonight)](https://github.com/fox3000foxy/Discord-Aura)
 [![TalkForBot](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=TalkForBot&theme=tokyonight)](https://github.com/fox3000foxy/TalkForBot)
@@ -181,9 +340,15 @@ HOW THE FUCK DID I KNEW ALL MY REPOS BACK IN 2021?!
 [![fakesinvites](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=fakesinvites&theme=tokyonight)](https://github.com/fox3000foxy/fakesinvites)
 [![RVC-Discord-Bot](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=RVC-Discord-Bot&theme=tokyonight)](https://github.com/fox3000foxy/RVC-Discord-Bot)
 
----
+</div>
+</details>
 
-## 🌐 Web Projects & Sites
+<!-- 🌐 WEB PROJECTS & SITES -->
+
+<details>
+<summary><b>🌐 Web Projects & Sites — <sub>12 repos</sub></b></summary>
+
+<div align="center">
 
 [![actu-esport](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=actu-esport&theme=tokyonight)](https://github.com/fox3000foxy/actu-esport)
 [![belle-delphine-site](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=belle-delphine-site&theme=tokyonight)](https://github.com/fox3000foxy/belle-delphine-site)
@@ -198,9 +363,15 @@ HOW THE FUCK DID I KNEW ALL MY REPOS BACK IN 2021?!
 [![ProjectDreamTeamTheory](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=ProjectDreamTeamTheory&theme=tokyonight)](https://github.com/fox3000foxy/ProjectDreamTeamTheory)
 [![DreamTeam](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=DreamTeam&theme=tokyonight)](https://github.com/fox3000foxy/DreamTeam)
 
----
+</div>
+</details>
 
-## 🔧 Tools & Utilities
+<!-- 🔧 TOOLS & UTILITIES -->
+
+<details>
+<summary><b>🔧 Tools & Utilities — <sub>12 repos</sub></b></summary>
+
+<div align="center">
 
 [![vtuber-camera-javascript](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=vtuber-camera-javascript&theme=tokyonight)](https://github.com/fox3000foxy/vtuber-camera-javascript)
 [![Ts-Project-Maker](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=Ts-Project-Maker&theme=tokyonight)](https://github.com/fox3000foxy/Ts-Project-Maker)
@@ -215,26 +386,43 @@ HOW THE FUCK DID I KNEW ALL MY REPOS BACK IN 2021?!
 [![server-fs](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=server-fs&theme=tokyonight)](https://github.com/fox3000foxy/server-fs)
 [![cmdgame](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=cmdgame&theme=tokyonight)](https://github.com/fox3000foxy/cmdgame)
 
----
+</div>
+</details>
 
-## 🔒 VPN & Network
+<!-- 🔒 VPN & NETWORK -->
+
+<details>
+<summary><b>🔒 VPN & Network — <sub>4 repos</sub></b></summary>
+
+<div align="center">
 
 [![FreeVPN](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=FreeVPN&theme=tokyonight)](https://github.com/fox3000foxy/FreeVPN)
 [![Free-VPN](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=Free-VPN&theme=tokyonight)](https://github.com/fox3000foxy/Free-VPN)
 [![OVPN-Configs-scraper-old](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=OVPN-Configs-scraper-old&theme=tokyonight)](https://github.com/fox3000foxy/OVPN-Configs-scraper-old)
 [![VPN-GUI](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=VPN-GUI&theme=tokyonight)](https://github.com/fox3000foxy/VPN-GUI)
 
----
+</div>
+</details>
 
-## 🎵 Audio & Music
+<!-- 🎵 AUDIO & MUSIC -->
+
+<details><summary><b>🎵 Audio & Music — <sub>3 repos</sub></b></summary>
+
+<div align="center">
 
 [![hatsunemiku-aimlchatbot](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=hatsunemiku-aimlchatbot&theme=tokyonight)](https://github.com/fox3000foxy/hatsunemiku-aimlchatbot)
 [![Reclist-Gyroflex-FRA](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=Reclist-Gyroflex-FRA&theme=tokyonight)](https://github.com/fox3000foxy/Reclist-Gyroflex-FRA)
 [![sheplays](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=sheplays&theme=tokyonight)](https://github.com/fox3000foxy/sheplays)
 
----
+</div>
+</details>
 
-## 🧪 Experiments & Misc
+<!-- 🧪 EXPERIMENTS & MISC -->
+
+<details>
+<summary><b>🧪 Experiments & Misc — <sub>15 repos</sub></b></summary>
+
+<div align="center">
 
 [![2gf](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=2gf&theme=tokyonight)](https://github.com/fox3000foxy/2gf)
 [![fake-block](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=fake-block&theme=tokyonight)](https://github.com/fox3000foxy/fake-block)
@@ -252,11 +440,38 @@ HOW THE FUCK DID I KNEW ALL MY REPOS BACK IN 2021?!
 [![flying-serv](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=flying-serv&theme=tokyonight)](https://github.com/fox3000foxy/flying-serv)
 [![online-mario-heroku](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=online-mario-heroku&theme=tokyonight)](https://github.com/fox3000foxy/online-mario-heroku)
 
----
+</div>
+</details>
 
-## 📚 School / Exercises
+<!-- 📚 SCHOOL / EXERCISES -->
+
+<details>
+<summary><b>📚 School / Exercises — <sub>2 repos</sub></b></summary>
+
+<div align="center">
 
 [![3web-exercice-1](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=3web-exercice-1&theme=tokyonight)](https://github.com/fox3000foxy/3web-exercice-1)
 [![exercice-introduction-react](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=exercice-introduction-react&theme=tokyonight)](https://github.com/fox3000foxy/exercice-introduction-react)
+
+</div>
+</details>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- FOOTER -->
+<!-- ═══════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://counter.seku.su/cmoe?name=fox3000foxy&theme=r34" alt="Visitors" />
+
+<br/><br/>
+
+![Made with ❤️](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge) ![Open Source](https://img.shields.io/badge/Open%20Source-💚-green?style=for-the-badge)
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
