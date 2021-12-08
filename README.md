@@ -223,15 +223,15 @@ Independent Developer passionate about building things with code.<br>
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;The Fox Library
 </h1>
 
-<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=16&pause=2000&color=C9A96E&center=true&vCenter=true&width=450&lines=Browse+the+shelves...+every+repo+has+a+story+📖" alt="Library" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=16&pause=2000&color=C9A96E&center=true&vCenter=true&width=450&lines=Browse+the+shelves...+every+repo+has+a+story+📖" alt="Library" /> -->
 
 <br/>
 
-> **HOW THE FUCK DID I KNEW ALL MY REPOS BACK IN 2021?!**
+<strong style="color:gray">HOW THE FUCK DID I KNEW ALL MY REPOS BACK IN 2021?!</strong>
 
 </div>
 
-<br/>
+<!-- <br/> -->
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
 <!-- ║  ⭐ MY FAVORITES — HAND-PICKED GEMS                         ║ -->
