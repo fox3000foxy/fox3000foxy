@@ -269,9 +269,9 @@ Independent Developer passionate about building things with code.<br>
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-<table><tr><td align="center">
+<!-- <table><tr><td align="center"> -->
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" width="18" /> &nbsp;My Favorites — <i>Hand-Picked Gems</i></h3>
-</td></tr></table>
+<!-- </td></tr></table> -->
 </div>
 
 <div align="center">
@@ -288,9 +288,9 @@ Independent Developer passionate about building things with code.<br>
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <div align="center">
-<table><tr><td align="center">
+<!-- <table><tr><td align="center"> -->
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" width="18" /> Top Shelf — <i>Most Starred</i></h3>
-</td></tr></table>
+<!-- </td></tr></table> -->
 </div>
 
 <div align="center">
