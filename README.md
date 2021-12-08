@@ -250,27 +250,34 @@ Independent Developer passionate about building things with code.
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
-<!-- REPOSITORIES -->
+<!-- 📚 THE LIBRARY — REPOSITORY SHELVES -->
 <!-- ═══════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 <h1>
-  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;My Repositories
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;The Fox Library
 </h1>
+
+<img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=700&size=16&pause=2000&color=C9A96E&center=true&vCenter=true&width=450&lines=Browse+the+shelves...+every+repo+has+a+story+📖" alt="Library" />
 
 <br/>
 
 > **HOW THE FUCK DID I KNEW ALL MY REPOS BACK IN 2021?!**
 
-<br/>
-
 </div>
 
-<!-- ⭐ MOST STARRED ⭐ -->
+<br/>
 
-<details open>
-<summary><b>⭐ Most Starred</b></summary>
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  🏆  TOP SHELF — SHOWCASE (full width, premium display)    ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<div align="center">
+<table><tr><td align="center">
+<h3>🏆 &nbsp;Top Shelf — <i>Most Starred</i></h3>
+</td></tr></table>
+</div>
 
 <div align="center">
 
@@ -282,12 +289,27 @@ Independent Developer passionate about building things with code.
 [![hologram-smart-miku](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=hologram-smart-miku&theme=tokyonight)](https://github.com/fox3000foxy/hologram-smart-miku)
 
 </div>
-</details>
 
-<!-- 🎮 GAMES & MINECRAFT -->
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
 
-<details>
-<summary><b>🎮 Games & Minecraft — <sub>22 repos</sub></b></summary>
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  SHELF 2 — Asymmetric: Games (wide) │ Discord (narrow)     ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<table>
+<tr>
+<td width="62%" valign="top">
+
+<div align="center">
+
+<h3>🎮 Games & Minecraft — <sub>22 books</sub></h3>
+
+</div>
+
+<details open>
+<summary>&nbsp;&nbsp;📂 <i>Open this shelf...</i></summary>
 
 <div align="center">
 
@@ -317,10 +339,17 @@ Independent Developer passionate about building things with code.
 </div>
 </details>
 
-<!-- 🤖 DISCORD BOTS & TOOLS -->
+</td>
+<td width="38%" valign="top">
+
+<div align="center">
+
+<h3>🤖 Discord Bots — <sub>15 books</sub></h3>
+
+</div>
 
 <details>
-<summary><b>🤖 Discord Bots & Tools — <sub>15 repos</sub></b></summary>
+<summary>&nbsp;&nbsp;📂 <i>Open this shelf...</i></summary>
 
 <div align="center">
 
@@ -343,10 +372,30 @@ Independent Developer passionate about building things with code.
 </div>
 </details>
 
-<!-- 🌐 WEB PROJECTS & SITES -->
+</td>
+</tr>
+</table>
+
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  SHELF 3 — Asymmetric: Web (narrow) │ Tools (wide)         ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<table>
+<tr>
+<td width="40%" valign="top">
+
+<div align="center">
+
+<h3>🌐 Web & Sites — <sub>12 books</sub></h3>
+
+</div>
 
 <details>
-<summary><b>🌐 Web Projects & Sites — <sub>12 repos</sub></b></summary>
+<summary>&nbsp;&nbsp;📂 <i>Open this shelf...</i></summary>
 
 <div align="center">
 
@@ -366,10 +415,17 @@ Independent Developer passionate about building things with code.
 </div>
 </details>
 
-<!-- 🔧 TOOLS & UTILITIES -->
+</td>
+<td width="60%" valign="top">
+
+<div align="center">
+
+<h3>🔧 Tools & Utilities — <sub>12 books</sub></h3>
+
+</div>
 
 <details>
-<summary><b>🔧 Tools & Utilities — <sub>12 repos</sub></b></summary>
+<summary>&nbsp;&nbsp;📂 <i>Open this shelf...</i></summary>
 
 <div align="center">
 
@@ -389,10 +445,30 @@ Independent Developer passionate about building things with code.
 </div>
 </details>
 
-<!-- 🔒 VPN & NETWORK -->
+</td>
+</tr>
+</table>
+
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  SHELF 4 — Triple asymmetric: VPN│Audio│Experiments        ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<table>
+<tr>
+<td width="25%" valign="top">
+
+<div align="center">
+
+<h3>🔒 VPN — <sub>4 books</sub></h3>
+
+</div>
 
 <details>
-<summary><b>🔒 VPN & Network — <sub>4 repos</sub></b></summary>
+<summary>&nbsp;&nbsp;📂 <i>Open...</i></summary>
 
 <div align="center">
 
@@ -404,9 +480,17 @@ Independent Developer passionate about building things with code.
 </div>
 </details>
 
-<!-- 🎵 AUDIO & MUSIC -->
+</td>
+<td width="25%" valign="top">
 
-<details><summary><b>🎵 Audio & Music — <sub>3 repos</sub></b></summary>
+<div align="center">
+
+<h3>🎵 Audio — <sub>3 books</sub></h3>
+
+</div>
+
+<details>
+<summary>&nbsp;&nbsp;📂 <i>Open...</i></summary>
 
 <div align="center">
 
@@ -417,10 +501,17 @@ Independent Developer passionate about building things with code.
 </div>
 </details>
 
-<!-- 🧪 EXPERIMENTS & MISC -->
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+
+<h3>🧪 Experiments — <sub>15 books</sub></h3>
+
+</div>
 
 <details>
-<summary><b>🧪 Experiments & Misc — <sub>15 repos</sub></b></summary>
+<summary>&nbsp;&nbsp;📂 <i>Open this shelf...</i></summary>
 
 <div align="center">
 
@@ -443,10 +534,44 @@ Independent Developer passionate about building things with code.
 </div>
 </details>
 
-<!-- 📚 SCHOOL / EXERCISES -->
+</td>
+</tr>
+</table>
+
+<div align="center"><sub>━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━</sub></div>
+
+<br/>
+
+<!-- ╔══════════════════════════════════════════════════════════════╗ -->
+<!-- ║  BOTTOM SHELF — School (small, offset right)               ║ -->
+<!-- ╚══════════════════════════════════════════════════════════════╝ -->
+
+<table>
+<tr>
+<td width="55%">
+
+<div align="center">
+
+```
+           ┌─────────────────────────┐
+           │   📖  End of shelves    │
+           │   Thanks for browsing!  │
+           └─────────────────────────┘
+```
+
+</div>
+
+</td>
+<td width="45%" valign="top">
+
+<div align="center">
+
+<h3>📚 School — <sub>2 books</sub></h3>
+
+</div>
 
 <details>
-<summary><b>📚 School / Exercises — <sub>2 repos</sub></b></summary>
+<summary>&nbsp;&nbsp;📂 <i>Open...</i></summary>
 
 <div align="center">
 
@@ -455,6 +580,10 @@ Independent Developer passionate about building things with code.
 
 </div>
 </details>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
