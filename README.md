@@ -78,6 +78,14 @@ Independent Developer passionate about building things with code.<br>
 
 <br/>
 
+<div align="center">
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/724847846897221642?showDisplayName=true)](https://discord.com/users/724847846897221642)
+
+</div>
+
+<br/>
+
 <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/water.png" />
 
 <!-- ═══════════════════════════════════════════════════════════════ -->
