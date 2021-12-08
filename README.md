@@ -36,9 +36,9 @@
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> &nbsp;About Me
 </h2>
 
-<table>
+<!-- <table>
 <tr>
-<td width="55%">
+<td width="55%"> -->
 
 ```js
 class Person {
@@ -58,9 +58,9 @@ class Person {
 const me = new Person('fox3000foxy', 'Independent Developer', ['JavaScript', 'TypeScript', 'Node.js', 'HTML/CSS']);
 me.details();
 ```
-
+<!-- 
 </td>
-<td width="45%">
+<td width="45%"> -->
 
 <div align="center">
 
@@ -71,10 +71,10 @@ Independent Developer passionate about building things with code.<br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="18" /> JavaScript & TypeScript enthusiast<br> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Europe-Africa.png" width="18" /> Open Source contributor<br> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Books.png" width="18" /> Always learning new things<br> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Video%20Game.png" width="18" /> Game dev hobbyist<br>
 
 </div>
-
+<!-- 
 </td>
 </tr>
-</table>
+</table> -->
 
 <br/>
 
