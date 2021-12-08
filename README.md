@@ -123,6 +123,8 @@ me.details();
 
 # 📂 My Repositories
 
+HOW THE FUCK DID I KNEW ALL MY REPOS BACK IN 2021?!
+
 ## ⭐ Most Starred
 
 [![ImmersiveManhunt](https://github-readme-stats-fast.vercel.app/api/pin/?username=fox3000foxy&repo=ImmersiveManhunt&theme=tokyonight)](https://github.com/fox3000foxy/ImmersiveManhunt)
